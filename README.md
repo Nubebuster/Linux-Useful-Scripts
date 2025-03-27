@@ -6,7 +6,7 @@ Welcome to this collection of useful scripts for Linux users. Here, you'll find 
 
 ### fu Script
 
-The **fu** script lets you easily interact with your clipboard and files. It provides two core commands:
+The **fu** (file-util) script lets you easily interact with your clipboard and files. It provides two core commands:
 
 - **paste [default_filename\*]:** Retrieves clipboard content and writes it to a file (prompts options to create, append, or overwrite).
 - **clip [search_path\*]:** Uses an interactive file selector to choose a text file and copies its contents into the clipboard. If a file path is provided instead of a directory, its content is directly loaded into the clipboard.
